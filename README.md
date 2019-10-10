@@ -1,7 +1,13 @@
 # jomb-music
-Pemutar musik . 
+Pemutar musik base javascript. 
 
-masukan ke dalam hosting, kemudin buat folder dengan nama audio,
-Sudah ada contoh nama file yg di masukan ke dalam variable playlist.
+- Upload script ini pada hosting atau cpanel.
+- Upload musik masih manual. penyimpanan dari luar atau dari host sendiri.
+contoh bisa upload kesini -> http://otupload.orangeoval.net/
+- Hanya support chrome. karena yang dijalan mp3.
+- Sudah support perangkat mobile(android)
+- Fitur randomswitch, agar putar lagu tidak berurutan.
+- pilihan putar album. diatur secara manual atau campur keseluruhan
 
-Version 1.
+
+Version 2.
