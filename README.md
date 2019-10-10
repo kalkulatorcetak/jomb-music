@@ -12,3 +12,5 @@ contoh bisa upload kesini -> http://otupload.orangeoval.net/
 
 Version 2.
 Demo: jomb.xp3.biz/music
+
+terima kasih
